@@ -1,0 +1,25 @@
+{
+  "name": "gas-workflow-test",
+  "version": "1.0.0",
+  "description": "GASのワークフローのテスト",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shake551/gas-workflow-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shake551/gas-workflow-test/issues"
+  },
+  "homepage": "https://github.com/shake551/gas-workflow-test#readme",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.55",
+    "@types/jest": "^29.0.0",
+    "ts-jest": "^28.0.8"
+  }
+}
